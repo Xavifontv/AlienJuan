@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <h1><strong>Skills</strong></h1>
+  <p>
+    This are the skills Luis has, he got them throughout all his 43,029 years of life expirience.
+  </p>
+  <table cellspacing="10">
+<tbody>
+  <tr>
+    <td>
+  <table>
+    <thead>
+      <tr>
+        <th>Skill</th>
+      </tr>
+    <tbody>
+      <tr>
+        <td>Strength Lifting</td>
+      </tr>
+      <tr>
+        <td>Game Design</td>
+      </tr>
+      <tr>
+        <td>Guittar</td>
+      </tr>
+      <tr>
+        <td>Eating Eggs</td>
+      </tr>
+      <tr>
+        <td>Driving</td>
+      </tr>
+      <tr>
+        <td>Putting On Shoes</td>
+      </tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
+</td>
+<td>
+  <table>
+    <thead>
+      <tr>
+        <th>How good?</th>
+      </tr>
+    <tbody>
+      <tr>
+        <td>💪💪💪💪💪</td>
+      </tr>
+      <tr>
+        <td>💪💪💪💪💪</td>
+      </tr>
+      <tr>
+        <td>💪💪💪💪💪</td>
+      </tr>
+      <tr>
+        <td>💪💪💪💪💪</td>
+      </tr>
+      <tr>
+        <td>💪</td>
+      </tr>
+      <tr>
+        <td>💪💪💪</td>
+      </tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+  <meta charset="utf-8">
+  <title></title>
+</head>
+
+<body>
+
+</body>
+
+</html>

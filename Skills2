@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <h1><strong>Skills</strong></h1>
+  <p>
+    This are the skills Luis has, he got them throughout all his 43,029 years of life expirience.
+  </p>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Skill</th>
+        <th>How good?</th>
+      </tr>
+    <tbody>
+      <tr>
+        <td>Strength Lifting</td>
+        <td>💪💪💪💪💪</td>
+      </tr>
+      <tr>
+        <td>Game Design</td>
+        <td>💪💪💪💪💪</td>
+      </tr>
+      <tr>
+        <td>Guittar</td>
+        <td>💪💪💪💪💪</td>
+      </tr>
+      <tr>
+        <td>Eating Eggs</td>
+        <td>💪💪💪💪💪</td>
+      </tr>
+      <tr>
+        <td>Driving</td>
+        <td>💪</td>
+      </tr>
+      <tr>
+        <td>Putting On Shoes</td>
+        <td>💪💪💪</td>
+      </tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
+
+
+
+  <meta charset="utf-8">
+  <title></title>
+</head>
+
+<body>
+
+</body>
+
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Jaehwan is Juan</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+  <tr>
+    <td>
+    <img src="https://i.ytimg.com/vi/AcbiOjsf6ic/hqdefault.jpg" alt="Luis' Profile Picture">
+  </td><td>
+  <h1><strong></strong><a href="https://www.nasa.gov/">Jaejuan is Juan</a></strong></h1>
+  <br />
+  <p><em>The only one Juan <strong>esta aqui</strong></em></p>
+  <p><strong><emp>He is not Asian nor Canadian</emp></strong></p>
+    </td>
+  </tr>
+</table>
+  <hr / size="3">
+  <h3>Cuando?</h3>
+  <p> Se estima que para el final de el verano Luis saldra de su casa ya que habra acabado la cuarentena, estas listo? </p>
+  <ul>
+    <li>Luis no es terrestre</li>
+    <ul>
+      <li>Es de el planeta <a href="https://en.wikipedia.org/wiki/Eris_(dwarf_planet)">Eris</a></a></li>
+    </ul>
+  </ul>
+  <ul>
+    <li>No tiene dos ojos</li>
+    <ul>
+      <li>Tiene mas de dos ojos/li>
+    </ul></ul>
+    <ul>
+      <li>Es verde</li>
+      <li>Como un pepino</li>
+    </ul>
+    <a href="/Users/xavierfontvillasenor/Desktop/Escritorio/Web Code Class/Projects/Project 1/hobby">My Hobbies</a>
+    <a href="/Users/xavierfontvillasenor/Desktop/Escritorio/Web Code Class/Projects/Project 1/Contact Info">Contact Info</a>
+    <a href="/Users/xavierfontvillasenor/Desktop/Escritorio/Web Code Class/Projects/Project 1/Expirience">Expirience</a>
+    <a href="/Users/xavierfontvillasenor/Desktop/Escritorio/Web Code Class/Projects/Project 1/Skiils">Skills</a>
+</body>
+
+</html>

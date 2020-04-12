@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Contact Info</title>
+</head>
+
+<body>
+  <h1><strong>How To Contact Luis</strong></h1>
+  <hr>
+  <p>As you may guess, most Aliens don't use cell phones, and Luis is not an exception.</p>
+  <h2><strong>Other Ways You Can Contact Luis:</strong></h2>
+  <ul>
+    <li>Call 911</li>
+    <ul>
+      <li>Since he might be in prison soon for killing Albert Einstein</li>
+    </ul>
+  </ul>
+  <ul>
+    <li>Kill a doc and put its blood on a wooden plate</li>
+    <ul>
+      <li>He loves doc blood like that, careful, he runs at light speed, he might crush you if you are on his way as he comes</li>
+    </ul>
+  </ul>
+  <ul>
+    <li>Dress like a female Alien</li>
+    <ul>
+      <li>Luis is one of those Alien's who loves having fun...</li>
+    </ul>
+  </ul>
+  <hr>
+  <h2>There you go! That is how you can contact Luis Regalado Plutonio!</h2>
+  <h5> If you would like to, sned him a message.</h5>
+  <form action="mailto:xavifont99@gmail.com" method="post" enctype="text/plain">
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <label>First Name</label>
+          </td>
+          <td>
+            <input type="text" name="FirstName">
+          </td>
+          <td>
+            <label>Last Name</label>
+          </td>
+          <td>
+            <input type="text" name="LastName">
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label>Galaxy, Solar System, Planet</label>
+          </td>
+          <td>
+            <input type="text" name="Location">
+          </td>
+          <td>
+            <label for="age-choice">Age</label>
+          </td>
+          <td>
+            <input list="Age-ranges" id="age-choice" name="Age" />
+            <datalist id="age-choice">
+              <option value="Less than 2 months">
+              <option value="2 moths to 6 years">
+              <option value="6 years to 120 years">
+              <option value="120 years to 20,000 years">
+              <option value="20,000 years to 60,000,000 years">
+              <option value="More than 60,000,000 years">
+            </datalist>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label>Message</label>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <textarea rows="4" cols="10" name="Message"></textarea>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <input type="submit" name="">
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </form>
+
+</html>
